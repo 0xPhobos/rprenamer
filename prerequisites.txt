@@ -5,6 +5,5 @@ Using pathlib to manage system paths and rename files
 
 In terms of external software dependencies, your bulk file rename tool depends on PyQt v5.15.12. You can install this library from PyPI using pip as usual:
 
-```
+
 $ python -m pip install pyqt5
-```
