@@ -1,4 +1,6 @@
-**BF Rename** is a bulk file rename tool built with Python and PyQt5.
+# RP Renamer
+
+**RP Renamer** is a bulk file rename tool built with Python and PyQt5.
 
 ### Run the App
 
