@@ -1,9 +1,0 @@
-Creating GUI applications with Python and PyQt
-Using Qt Designer to create GUIs
-Using PyQt QThread to offload long-running tasks and prevent freezing GUIs
-Using pathlib to manage system paths and rename files
-
-In terms of external software dependencies, your bulk file rename tool depends on PyQt v5.15.12. You can install this library from PyPI using pip as usual:
-
-
-$ python -m pip install pyqt5
